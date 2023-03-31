@@ -1,6 +1,7 @@
 package main
 
 import (
+	//111111111111111111111111
 	"fmt"
 	"math/rand"
 	//可用于批量包导入
